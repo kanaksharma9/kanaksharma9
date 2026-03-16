@@ -15,11 +15,10 @@ I build things fast, then make them smarter.<br>Full-Stack Engineer / Technical 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=kanaksharma9&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=kanaksharma9&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-✍️ Random Dev Quote
