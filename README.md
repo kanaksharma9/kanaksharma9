@@ -1,23 +1,77 @@
-# 💫 About Me:
-I build things fast, then make them smarter.<br>Full-Stack Engineer / Technical Product Manager / AI Orchestration<br>I'm Kanak Sharma, a developer and product builder who operates at the intersection of engineering speed and product instinct. I don't just write code; I ship entire products. As CTO of a PropTech startup, I designed and launched a multi-sided real estate marketplace from scratch, with role-based access for four user types, secure deal rooms, and automated legal routing, and compressed months of dev work into weeks by mastering AI coding agents and prompt engineering as first-class engineering tools.<br>My stack runs deep: Next.js, TypeScript, Node, Supabase, Docker, and PostgreSQL, but what I care about is velocity with integrity. I've cut API latency by 30%, architected LLM pipelines, contributed to open-source ML platforms, and built voice-to-code apps that feel a little like magic. I'm the kind of engineer who reads the system design before writing the first line, and the kind of PM who can still write that first line.<br>Next.js / TypeScript<br>LangChain / n8n / RAG<br>Supabase / PostgreSQL<br>Docker / CI/CD<br>Gemini / OpenAI APIs<br>TensorFlow / Python<br>System Design<br>MVP to Production<br>Outside of tech, I've led a 20-person literary club, using AI tools to craft campaigns that grew event attendance by 40%. And here's the detail that surprises people most: I hold a B1 proficiency in Russian, earned through a foreign language teaching diploma. Learning a language as structurally different as Russian taught me something engineers don't always learn in school, which is how to think in entirely different systems.<br>Currently pursuing B.S. Computer Science at Bhagat Phool Singh Mahila University, 2027 Russian B1 certified  ·  English Professional  ·  Hindi Native
 
+# Kanak Sharma
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/coder_05) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kanak--sharma) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@AmbientWonders-x5p) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sharmakanak043@gmail.com) 
+### AI & Full-Stack Engineer
+**I build things fast, then make them smarter.**
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=kanaksharma9&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=kanaksharma9&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kanaksharma9&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+I engineer intelligent systems and turn ideas into production-ready products.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=kanaksharma9&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+I'm a Computer Science student and software engineer working at the intersection of **AI engineering, backend architecture and full-stack product development**. My focus is building software that goes beyond demos: modular systems, reliable AI workflows and applications designed to scale.
 
-### ✍️ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+I've engineered document intelligence pipelines, abstraction layers for interchangeable AI models, asynchronous processing systems and multi-role web platforms. From architecting backend services to integrating LLMs into real-world workflows, I enjoy understanding the entire system before writing the first line of code.
+
+As a technical lead in a PropTech startup, I helped build a multi-sided real estate platform from the ground up, including role-based workflows, secure deal rooms and automated document processes. I also use AI coding agents and structured prompting as engineering tools to accelerate development without compromising architecture or maintainability.
+
+### What I Work On
+
+- **AI Engineering:** LLM applications, RAG, OCR, document intelligence, AI orchestration and multimodal workflows.
+- **Backend Engineering:** Modular architecture, REST APIs, asynchronous workers, authentication and database design.
+- **Full-Stack Development:** Building complete products with Next.js, React, TypeScript and modern backend technologies.
+- **System Design:** Abstraction layers, scalable processing pipelines, service integration and production-oriented architecture.
+- **Product Engineering:** Rapid prototyping, MVP development and taking products from concept to deployment.
+
+### Tech I Work With
+
+| Domain | Technologies |
+|---|---|
+| Languages | Python, JavaScript, TypeScript, SQL |
+| Frontend | React, Next.js, HTML, CSS, Tailwind CSS |
+| Backend | Node.js, Express, FastAPI, Flask |
+| AI / ML | Gemini API, OpenAI API, LangChain, TensorFlow, OpenCV |
+| Data & Storage | PostgreSQL, Supabase, MongoDB, Firebase |
+| Infrastructure | Docker, Git, GitHub, CI/CD, Vercel |
+| AI Workflows | RAG, OCR Pipelines, Document Intelligence, n8n |
+
+### Beyond Engineering
+
+Outside software, I've led a 20-member literary club and used creative campaigns to increase event attendance by 40%.
+
+I also hold a **B1 proficiency certification in Russian**, earned through a foreign language teaching diploma. Learning a structurally different language has shaped how I approach unfamiliar systems, problem-solving and communication.
+
+### Currently
+
+- Pursuing B.S. in Computer Science at Bhagat Phool Singh Mahila University (2027).
+- Exploring AI systems engineering, scalable backend architecture and intelligent product development.
+- Building software that solves actual problems, not just demonstrates technology.
+
+**Languages:** English (Professional) · Hindi (Native) · Russian (B1)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=kanaksharma9&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## Connect With Me
+
+[LinkedIn](https://linkedin.com/in/kanak--sharma) ·
+[GitHub](https://github.com/kanaksharma9) ·
+[Email](mailto:sharmakanak043@gmail.com) ·
+[YouTube](https://youtube.com/@AmbientWonders-x5p) ·
+[Discord](https://discord.gg/coder_05)
+
+---
+
+## GitHub Statistics
+
+![](https://github-readme-stats.vercel.app/api?username=kanaksharma9&theme=tokyonight&hide_border=true&show_icons=true)
+
+![](https://nirzak-streak-stats.vercel.app/?user=kanaksharma9&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kanaksharma9&theme=tokyonight&hide_border=true&layout=compact)
+
+---
+
+![](https://github-profile-trophy.vercel.app/?username=kanaksharma9&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
+
+---
+
+*Building at the intersection of intelligence and engineering.*
+
 
