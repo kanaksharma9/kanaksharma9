@@ -74,4 +74,3 @@ I also hold a **B1 proficiency certification in Russian**, earned through a fore
 
 *Building at the intersection of intelligence and engineering.*
 
-
